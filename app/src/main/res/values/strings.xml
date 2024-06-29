@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">学单词</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="learn">学单词</string>
+    <string name="enter">欢迎使用</string>
+    <string name="imageDescription">图片描述</string>
+    <string name="addbutton">增加</string>
+    <string name="ensure">确认</string>
+    <string name="addView">添加单词</string>
+    <string name="addEnglish">请输入英文单词</string>
+    <string name="addChinese">请输入中文翻译</string>
+    <string name="searchHint">请输入查询的英文单词</string>
+    <string name="modify">修改</string>
+    <string name="delete">删除</string>
+    <string name="showChinese">显示中文</string>
+    <string name="showEnglish">显示英文</string>
+    <string name="showBoth">显示中英文</string>
+</resources>

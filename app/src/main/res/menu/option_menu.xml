@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/showChinese"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/showChinese" />
+    <item
+        android:id="@+id/showEnglish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/showEnglish" />
+    <item
+        android:id="@+id/showBoth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/showBoth" />
+</menu>
